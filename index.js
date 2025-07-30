@@ -1,4 +1,4 @@
-const dogBreeds = require('./dog-breeds.json');
+const dogBreeds = require('./dogs.json');
 
 /**
  * Normalize a breed name for comparison.
