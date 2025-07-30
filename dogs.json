@@ -31,455 +31,681 @@
     },
     {
         "name": "Akbash",
-        "origin": "Turkey"
+        "origin": "Turkey",
+        "size": "large",
+        "temperament": ["protective", "calm"]
     },
     {
         "name": "Akita",
-        "origin": "Japan"
+        "origin": "Japan",
+        "size": "large",
+        "temperament": ["dignified", "loyal"]
     },
     {
         "name": "Alano Español",
-        "origin": "Spain"
+        "origin": "Spain",
+        "size": "large",
+        "temperament": ["courageous", "strong"]
     },
     {
         "name": "Alaskan husky",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "Alaskan Klee Kai",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "small",
+        "temperament": ["alert", "intelligent"]
     },
     {
         "name": "Alaskan Malamute",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["loyal", "playful"]
     },
     {
         "name": "Alaunt",
-        "origin": "Albania"
+        "origin": "Albania",
+        "size": "large",
+        "temperament": ["protective", "brave"]
     },
     {
         "name": "Alopekis",
-        "origin": "Greece"
+        "origin": "Greece",
+        "size": "small",
+        "temperament": ["lively", "intelligent"]
     },
     {
         "name": "Alpine Dachsbracke",
-        "origin": "Austria"
+        "origin": "Austria",
+        "size": "small",
+        "temperament": ["determined", "friendly"]
     },
     {
         "name": "Alpine Mastiff",
-        "origin": "Switzerland"
+        "origin": "Switzerland",
+        "size": "large",
+        "temperament": ["gentle", "protective"]
     },
     {
         "name": "Alpine Spaniel",
-        "origin": "Switzerland, Savoy"
+        "origin": "Switzerland, Savoy",
+        "size": "medium",
+        "temperament": ["active", "affectionate"]
     },
     {
         "name": "American Akita",
-        "origin": "Japan/United States"
+        "origin": "Japan/United States",
+        "size": "large",
+        "temperament": ["loyal", "courageous"]
     },
     {
         "name": "American Bulldog",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["confident", "friendly"]
     },
     {
         "name": "American Cocker Spaniel",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["gentle", "playful"]
     },
     {
         "name": "American English Coonhound",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "American Eskimo Dog",
-        "origin": "Germany"
+        "origin": "Germany",
+        "size": "small",
+        "temperament": ["alert", "intelligent"]
     },
     {
         "name": "American Foxhound",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["gentle", "active"]
     },
     {
         "name": "American Hairless Terrier",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "small",
+        "temperament": ["lively", "affectionate"]
     },
     {
         "name": "American Pit Bull Terrier",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["confident", "loyal"]
     },
     {
         "name": "American Staffordshire Terrier",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["courageous", "friendly"]
     },
     {
         "name": "American Water Spaniel",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["energetic", "intelligent"]
     },
     {
         "name": "Anatolian Shepherd Dog",
-        "origin": "Turkey"
+        "origin": "Turkey",
+        "size": "large",
+        "temperament": ["protective", "independent"]
     },
     {
         "name": "Andalusian Hound",
-        "origin": "Spain"
+        "origin": "Spain",
+        "size": "medium",
+        "temperament": ["active", "alert"]
     },
     {
         "name": "Anglo-Français de Petite Vénerie",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["friendly", "active"]
     },
     {
         "name": "Appenzeller Sennenhund",
-        "origin": "Switzerland"
+        "origin": "Switzerland",
+        "size": "medium",
+        "temperament": ["lively", "intelligent"]
     },
     {
         "name": "Braque de l'Ariege",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "Ariegeois",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Armant",
-        "origin": "Egypt"
+        "origin": "Egypt",
+        "size": "medium",
+        "temperament": ["loyal", "energetic"]
     },
     {
         "name": "Armenian Gampr dog",
-        "origin": "Armenia"
+        "origin": "Armenia",
+        "size": "large",
+        "temperament": ["protective", "independent"]
     },
     {
         "name": "Artois Hound",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Australian Cattle Dog",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "medium",
+        "temperament": ["alert", "energetic"]
     },
     {
         "name": "Australian Kelpie",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "medium",
+        "temperament": ["active", "intelligent"]
     },
     {
         "name": "Australian Shepherd",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["energetic", "intelligent"]
     },
     {
         "name": "Australian Silky Terrier",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "small",
+        "temperament": ["friendly", "lively"]
     },
     {
         "name": "Australian Stumpy Tail Cattle Dog[10]",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "medium",
+        "temperament": ["alert", "energetic"]
     },
     {
         "name": "Australian Terrier",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "small",
+        "temperament": ["spirited", "friendly"]
     },
     {
         "name": "Austrian Black and Tan Hound",
-        "origin": "Austria"
+        "origin": "Austria",
+        "size": "medium",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Austrian Pinscher",
-        "origin": "Austria"
+        "origin": "Austria",
+        "size": "medium",
+        "temperament": ["lively", "alert"]
     },
     {
         "name": "Azawakh",
-        "origin": "Mali"
+        "origin": "Mali",
+        "size": "large",
+        "temperament": ["aloof", "affectionate"]
     },
     {
         "name": "Bakharwal Dog",
-        "origin": "India"
+        "origin": "India",
+        "size": "large",
+        "temperament": ["protective", "alert"]
     },
     {
         "name": "Barbet",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["friendly", "active"]
     },
     {
         "name": "Basenji",
-        "origin": "Democratic Republic of the Congo"
+        "origin": "Democratic Republic of the Congo",
+        "size": "small",
+        "temperament": ["independent", "curious"]
     },
     {
         "name": "Basque Ratter",
-        "origin": "Spain"
+        "origin": "Spain",
+        "size": "small",
+        "temperament": ["lively", "alert"]
     },
     {
         "name": "Basque Shepherd Dog",
-        "origin": "Spain"
+        "origin": "Spain",
+        "size": "medium",
+        "temperament": ["energetic", "loyal"]
     },
     {
         "name": "Basset Artésien Normand",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["gentle", "friendly"]
     },
     {
         "name": "Basset Bleu de Gascogne",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "affectionate"]
     },
     {
         "name": "Basset Fauve de Bretagne",
-        "origin": "France"
+        "origin": "France",
+        "size": "small",
+        "temperament": ["lively", "friendly"]
     },
     {
         "name": "Basset Griffon Vendéen, Grand",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "outgoing"]
     },
     {
         "name": "Basset Griffon Vendéen, Petit",
-        "origin": "France"
+        "origin": "France",
+        "size": "small",
+        "temperament": ["lively", "affectionate"]
     },
     {
         "name": "Basset Hound",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["gentle", "friendly"]
     },
     {
         "name": "Bavarian Mountain Hound",
-        "origin": "Germany"
+        "origin": "Germany",
+        "size": "medium",
+        "temperament": ["active", "loyal"]
     },
     {
         "name": "Beagle",
-        "origin": "United Kingdom (England)"
+        "origin": "United Kingdom (England)",
+        "size": "small",
+        "temperament": ["friendly", "curious"]
     },
     {
         "name": "Beagle-Harrier",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "friendly"]
     },
     {
         "name": "Bearded Collie",
-        "origin": "United Kingdom (Scotland)"
+        "origin": "United Kingdom (Scotland)",
+        "size": "medium",
+        "temperament": ["lively", "affectionate"]
     },
     {
         "name": "Beauceron",
-        "origin": "France"
+        "origin": "France",
+        "size": "large",
+        "temperament": ["loyal", "intelligent"]
     },
     {
         "name": "Bedlington Terrier",
-        "origin": "United Kingdom"
+        "origin": "United Kingdom",
+        "size": "small",
+        "temperament": ["affectionate", "spirited"]
     },
     {
         "name": "Belgian Shepherd Dog (Groenendael)",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "large",
+        "temperament": ["intelligent", "loyal"]
     },
     {
         "name": "Belgian Shepherd Dog (Laekenois)",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "large",
+        "temperament": ["alert", "energetic"]
     },
     {
         "name": "Belgian Shepherd Dog (Malinois)",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "large",
+        "temperament": ["active", "intelligent"]
     },
     {
         "name": "Belgian Shepherd Dog (Tervuren)",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "large",
+        "temperament": ["loyal", "energetic"]
     },
     {
         "name": "Bergamasco Shepherd",
-        "origin": "Italy"
+        "origin": "Italy",
+        "size": "large",
+        "temperament": ["calm", "loyal"]
     },
     {
         "name": "Berger Blanc Suisse",
-        "origin": "Switzerland"
+        "origin": "Switzerland",
+        "size": "large",
+        "temperament": ["gentle", "intelligent"]
     },
     {
         "name": "Berger Picard",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["lively", "loyal"]
     },
     {
         "name": "Bernese Mountain Dog",
-        "origin": "Switzerland"
+        "origin": "Switzerland",
+        "size": "large",
+        "temperament": ["gentle", "loyal"]
     },
     {
         "name": "Bichon Frisé",
-        "origin": "Spain, Belgium"
+        "origin": "Spain, Belgium",
+        "size": "small",
+        "temperament": ["cheerful", "affectionate"]
     },
     {
         "name": "Billy",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "friendly"]
     },
     {
         "name": "Black and Tan Coonhound",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["friendly", "active"]
     },
     {
         "name": "Black and Tan Virginia Foxhound",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["energetic", "alert"]
     },
     {
         "name": "Black Norwegian Elkhound",
-        "origin": "Norway"
+        "origin": "Norway",
+        "size": "medium",
+        "temperament": ["loyal", "alert"]
     },
     {
         "name": "Black Russian Terrier",
-        "origin": "Russia"
+        "origin": "Russia",
+        "size": "large",
+        "temperament": ["protective", "confident"]
     },
     {
         "name": "Black Mouth Cur",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["energetic", "loyal"]
     },
     {
         "name": "Bleu de Gascogne, Grand",
-        "origin": "France"
+        "origin": "France",
+        "size": "large",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Bleu de Gascogne, Petit",
-        "origin": "France"
+        "origin": "France",
+        "size": "small",
+        "temperament": ["lively", "friendly"]
     },
     {
         "name": "Bloodhound",
-        "origin": "Belgium, France"
+        "origin": "Belgium, France",
+        "size": "large",
+        "temperament": ["gentle", "determined"]
     },
     {
         "name": "Blue Heeler",
-        "origin": "Australia"
+        "origin": "Australia",
+        "size": "medium",
+        "temperament": ["energetic", "alert"]
     },
     {
         "name": "Blue Lacy",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["active", "intelligent"]
     },
     {
         "name": "Blue Paul Terrier",
-        "origin": "United Kingdom (Scotland)"
+        "origin": "United Kingdom (Scotland)",
+        "size": "medium",
+        "temperament": ["courageous", "loyal"]
     },
     {
         "name": "Blue Picardy Spaniel",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["gentle", "active"]
     },
     {
         "name": "Bluetick Coonhound",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "large",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "Boerboel",
-        "origin": "South Africa"
+        "origin": "South Africa",
+        "size": "large",
+        "temperament": ["protective", "confident"]
     },
     {
         "name": "Bohemian Shepherd",
-        "origin": "Czech Republic"
+        "origin": "Czech Republic",
+        "size": "medium",
+        "temperament": ["lively", "loyal"]
     },
     {
         "name": "Bolognese",
-        "origin": "Italy"
+        "origin": "Italy",
+        "size": "small",
+        "temperament": ["affectionate", "cheerful"]
     },
     {
         "name": "Border Collie",
-        "origin": "United Kingdom (Scotland, England, Wales)"
+        "origin": "United Kingdom (Scotland, England, Wales)",
+        "size": "medium",
+        "temperament": ["intelligent", "energetic"]
     },
     {
         "name": "Border Terrier",
-        "origin": "United Kingdom (Scotland, England)"
+        "origin": "United Kingdom (Scotland, England)",
+        "size": "small",
+        "temperament": ["affectionate", "alert"]
     },
     {
         "name": "Borzoi",
-        "origin": "Russia"
+        "origin": "Russia",
+        "size": "large",
+        "temperament": ["gentle", "independent"]
     },
     {
         "name": "Bosnian Coarse-haired Hound",
-        "origin": "Bosnia and Herzegovina"
+        "origin": "Bosnia and Herzegovina",
+        "size": "medium",
+        "temperament": ["active", "loyal"]
     },
     {
         "name": "Boston Terrier",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "small",
+        "temperament": ["friendly", "lively"]
     },
     {
         "name": "Bouvier des Ardennes",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "medium",
+        "temperament": ["loyal", "active"]
     },
     {
         "name": "Bouvier des Flandres",
-        "origin": "Belgium"
+        "origin": "Belgium",
+        "size": "large",
+        "temperament": ["protective", "intelligent"]
     },
     {
         "name": "Boxer",
-        "origin": "Germany"
+        "origin": "Germany",
+        "size": "large",
+        "temperament": ["playful", "loyal"]
     },
     {
         "name": "Boykin Spaniel",
-        "origin": "United States"
+        "origin": "United States",
+        "size": "medium",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "Bracco Italiano",
-        "origin": "Italy"
+        "origin": "Italy",
+        "size": "large",
+        "temperament": ["gentle", "active"]
     },
     {
         "name": "Braque d'Auvergne",
-        "origin": "France"
+        "origin": "France",
+        "size": "large",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Braque du Bourbonnais",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["energetic", "affectionate"]
     },
     {
         "name": "Braque du Puy",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "intelligent"]
     },
     {
         "name": "Braque Francais",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["friendly", "active"]
     },
     {
         "name": "Braque Saint-Germain",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["gentle", "active"]
     },
     {
         "name": "Brazilian Dogo",
-        "origin": "Brazil"
+        "origin": "Brazil",
+        "size": "large",
+        "temperament": ["protective", "loyal"]
     },
     {
         "name": "Brazilian Terrier",
-        "origin": "Brazil"
+        "origin": "Brazil",
+        "size": "small",
+        "temperament": ["lively", "intelligent"]
     },
     {
         "name": "Briard",
-        "origin": "France"
+        "origin": "France",
+        "size": "large",
+        "temperament": ["loyal", "intelligent"]
     },
     {
         "name": "Briquet Griffon Vendéen",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["active", "friendly"]
     },
     {
         "name": "Brittany",
-        "origin": "France"
+        "origin": "France",
+        "size": "medium",
+        "temperament": ["energetic", "friendly"]
     },
     {
         "name": "Broholmer",
-        "origin": "Denmark"
+        "origin": "Denmark",
+        "size": "large",
+        "temperament": ["calm", "protective"]
     },
     {
         "name": "Bruno Jura Hound",
-        "origin": "Switzerland, France"
+        "origin": "Switzerland, France",
+        "size": "medium",
+        "temperament": ["active", "gentle"]
     },
     {
         "name": "Bucovina Shepherd Dog",
-        "origin": "Romania"
+        "origin": "Romania",
+        "size": "large",
+        "temperament": ["protective", "loyal"]
     },
     {
         "name": "Bull and Terrier",
-        "origin": "United Kingdom"
+        "origin": "United Kingdom",
+        "size": "medium",
+        "temperament": ["courageous", "active"]
     },
     {
         "name": "Bull Terrier",
-        "origin": "United Kingdom (England)"
+        "origin": "United Kingdom (England)",
+        "size": "medium",
+        "temperament": ["playful", "courageous"]
     },
     {
         "name": "Bull Terrier (Miniature)",
-        "origin": "United Kingdom (England)"
+        "origin": "United Kingdom (England)",
+        "size": "small",
+        "temperament": ["lively", "affectionate"]
     },
     {
         "name": "Bulldog",
-        "origin": "United Kingdom (England)"
+        "origin": "United Kingdom (England)",
+        "size": "medium",
+        "temperament": ["gentle", "courageous"]
     },
     {
         "name": "Bullenbeisser",
-        "origin": "Germany"
+        "origin": "Germany",
+        "size": "large",
+        "temperament": ["strong", "protective"]
     },
     {
         "name": "Bullmastiff",
-        "origin": "United Kingdom (England)"
+        "origin": "United Kingdom (England)",
+        "size": "large",
+        "temperament": ["loyal", "protective"]
     },
     {
         "name": "Bully Kutta",
-        "origin": "Pakistan, India"
+        "origin": "Pakistan, India",
+        "size": "large",
+        "temperament": ["courageous", "protective"]
     },
     {
         "name": "Burgos Pointer",
-        "origin": "Spain"
+        "origin": "Spain",
+        "size": "medium",
+        "temperament": ["active", "intelligent"]
     },
     {
         "name": "Cairn Terrier",
