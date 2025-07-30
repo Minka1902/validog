@@ -1,4 +1,4 @@
-# validor
+# validog
 A simple Javascript and Typescript package to check if a string is a valid dog breed and get breed information.
 
 ## Installation
