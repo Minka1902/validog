@@ -21,7 +21,7 @@ const normalizeBreed = (breed) => {
 const isValidDogBreed = (breed, options = {}) => {
     if (!Array.isArray(dogBreeds)) throw new Error('dogBreeds data is not an array');
     if (typeof breed !== 'string' || breed.trim() === '') throw new TypeError('Breed name must be a non-empty string');
-    const { fuzzy = false, lang = 'en' } = options;
+    const { fuzzy = true, lang = 'en' } = options;
     const normalized = normalizeBreed(breed);
     return dogBreeds.some(b => {
         let name = typeof b === 'string' ? b : b.name;
@@ -49,7 +49,7 @@ const isValidDogBreed = (breed, options = {}) => {
 const getDogBreedOrigin = (breed, options = {}) => {
     if (!Array.isArray(dogBreeds)) throw new Error('dogBreeds data is not an array');
     if (typeof breed !== 'string' || breed.trim() === '') throw new TypeError('Breed name must be a non-empty string');
-    const { fuzzy = false, lang = 'en' } = options;
+    const { fuzzy = true, lang = 'en' } = options;
     const normalized = normalizeBreed(breed);
     const found = dogBreeds.find(b => {
         let name = typeof b === 'string' ? b : b.name;
@@ -77,7 +77,7 @@ const getDogBreedOrigin = (breed, options = {}) => {
 const getDogBreedData = (breed, options = {}) => {
     if (!Array.isArray(dogBreeds)) throw new Error('dogBreeds data is not an array');
     if (typeof breed !== 'string' || breed.trim() === '') throw new TypeError('Breed name must be a non-empty string');
-    const { fuzzy = false, lang = 'en' } = options;
+    const { fuzzy = true, lang = 'en' } = options;
     const normalized = normalizeBreed(breed);
     const found = dogBreeds.find(b => {
         let name = typeof b === 'string' ? b : b.name;
