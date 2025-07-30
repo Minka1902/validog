@@ -1,6 +1,6 @@
 {
   "name": "validog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dog breed validation library",
   "main": "index.js",
   "scripts": {
