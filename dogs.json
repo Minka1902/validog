@@ -1,0 +1,2068 @@
+[
+    {
+        "name": "Affenpinscher",
+        "origin": "Germany, France",
+        "size": "small",
+        "temperament": ["confident", "curious"]
+    },
+    {
+        "name": "Afghan Hound",
+        "origin": "Afghanistan",
+        "size": "large",
+        "temperament": ["dignified", "independent"]
+    },
+    {
+        "name": "Afghan Shepherd",
+        "origin": "Afghanistan",
+        "size": "large",
+        "temperament": ["protective", "loyal"]
+    },
+    {
+        "name": "Aidi",
+        "origin": "Morocco",
+        "size": "medium",
+        "temperament": ["alert", "energetic"]
+    },
+    {
+        "name": "Airedale Terrier",
+        "origin": "United Kingdom (England)",
+        "size": "large",
+        "temperament": ["friendly", "outgoing"]
+    },
+    {
+        "name": "Akbash",
+        "origin": "Turkey"
+    },
+    {
+        "name": "Akita",
+        "origin": "Japan"
+    },
+    {
+        "name": "Alano Español",
+        "origin": "Spain"
+    },
+    {
+        "name": "Alaskan husky",
+        "origin": "United States"
+    },
+    {
+        "name": "Alaskan Klee Kai",
+        "origin": "United States"
+    },
+    {
+        "name": "Alaskan Malamute",
+        "origin": "United States"
+    },
+    {
+        "name": "Alaunt",
+        "origin": "Albania"
+    },
+    {
+        "name": "Alopekis",
+        "origin": "Greece"
+    },
+    {
+        "name": "Alpine Dachsbracke",
+        "origin": "Austria"
+    },
+    {
+        "name": "Alpine Mastiff",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Alpine Spaniel",
+        "origin": "Switzerland, Savoy"
+    },
+    {
+        "name": "American Akita",
+        "origin": "Japan/United States"
+    },
+    {
+        "name": "American Bulldog",
+        "origin": "United States"
+    },
+    {
+        "name": "American Cocker Spaniel",
+        "origin": "United States"
+    },
+    {
+        "name": "American English Coonhound",
+        "origin": "United States"
+    },
+    {
+        "name": "American Eskimo Dog",
+        "origin": "Germany"
+    },
+    {
+        "name": "American Foxhound",
+        "origin": "United States"
+    },
+    {
+        "name": "American Hairless Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "American Water Spaniel",
+        "origin": "United States"
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "origin": "Turkey"
+    },
+    {
+        "name": "Andalusian Hound",
+        "origin": "Spain"
+    },
+    {
+        "name": "Anglo-Français de Petite Vénerie",
+        "origin": "France"
+    },
+    {
+        "name": "Appenzeller Sennenhund",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Braque de l'Ariege",
+        "origin": "France"
+    },
+    {
+        "name": "Ariegeois",
+        "origin": "France"
+    },
+    {
+        "name": "Armant",
+        "origin": "Egypt"
+    },
+    {
+        "name": "Armenian Gampr dog",
+        "origin": "Armenia"
+    },
+    {
+        "name": "Artois Hound",
+        "origin": "France"
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "origin": "Australia"
+    },
+    {
+        "name": "Australian Kelpie",
+        "origin": "Australia"
+    },
+    {
+        "name": "Australian Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Australian Silky Terrier",
+        "origin": "Australia"
+    },
+    {
+        "name": "Australian Stumpy Tail Cattle Dog[10]",
+        "origin": "Australia"
+    },
+    {
+        "name": "Australian Terrier",
+        "origin": "Australia"
+    },
+    {
+        "name": "Austrian Black and Tan Hound",
+        "origin": "Austria"
+    },
+    {
+        "name": "Austrian Pinscher",
+        "origin": "Austria"
+    },
+    {
+        "name": "Azawakh",
+        "origin": "Mali"
+    },
+    {
+        "name": "Bakharwal Dog",
+        "origin": "India"
+    },
+    {
+        "name": "Barbet",
+        "origin": "France"
+    },
+    {
+        "name": "Basenji",
+        "origin": "Democratic Republic of the Congo"
+    },
+    {
+        "name": "Basque Ratter",
+        "origin": "Spain"
+    },
+    {
+        "name": "Basque Shepherd Dog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Basset Artésien Normand",
+        "origin": "France"
+    },
+    {
+        "name": "Basset Bleu de Gascogne",
+        "origin": "France"
+    },
+    {
+        "name": "Basset Fauve de Bretagne",
+        "origin": "France"
+    },
+    {
+        "name": "Basset Griffon Vendéen, Grand",
+        "origin": "France"
+    },
+    {
+        "name": "Basset Griffon Vendéen, Petit",
+        "origin": "France"
+    },
+    {
+        "name": "Basset Hound",
+        "origin": "France"
+    },
+    {
+        "name": "Bavarian Mountain Hound",
+        "origin": "Germany"
+    },
+    {
+        "name": "Beagle",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Beagle-Harrier",
+        "origin": "France"
+    },
+    {
+        "name": "Bearded Collie",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Beauceron",
+        "origin": "France"
+    },
+    {
+        "name": "Bedlington Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Belgian Shepherd Dog (Groenendael)",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Belgian Shepherd Dog (Laekenois)",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Belgian Shepherd Dog (Malinois)",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Belgian Shepherd Dog (Tervuren)",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Bergamasco Shepherd",
+        "origin": "Italy"
+    },
+    {
+        "name": "Berger Blanc Suisse",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Berger Picard",
+        "origin": "France"
+    },
+    {
+        "name": "Bernese Mountain Dog",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Bichon Frisé",
+        "origin": "Spain, Belgium"
+    },
+    {
+        "name": "Billy",
+        "origin": "France"
+    },
+    {
+        "name": "Black and Tan Coonhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Black and Tan Virginia Foxhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Black Norwegian Elkhound",
+        "origin": "Norway"
+    },
+    {
+        "name": "Black Russian Terrier",
+        "origin": "Russia"
+    },
+    {
+        "name": "Black Mouth Cur",
+        "origin": "United States"
+    },
+    {
+        "name": "Bleu de Gascogne, Grand",
+        "origin": "France"
+    },
+    {
+        "name": "Bleu de Gascogne, Petit",
+        "origin": "France"
+    },
+    {
+        "name": "Bloodhound",
+        "origin": "Belgium, France"
+    },
+    {
+        "name": "Blue Heeler",
+        "origin": "Australia"
+    },
+    {
+        "name": "Blue Lacy",
+        "origin": "United States"
+    },
+    {
+        "name": "Blue Paul Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Blue Picardy Spaniel",
+        "origin": "France"
+    },
+    {
+        "name": "Bluetick Coonhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Boerboel",
+        "origin": "South Africa"
+    },
+    {
+        "name": "Bohemian Shepherd",
+        "origin": "Czech Republic"
+    },
+    {
+        "name": "Bolognese",
+        "origin": "Italy"
+    },
+    {
+        "name": "Border Collie",
+        "origin": "United Kingdom (Scotland, England, Wales)"
+    },
+    {
+        "name": "Border Terrier",
+        "origin": "United Kingdom (Scotland, England)"
+    },
+    {
+        "name": "Borzoi",
+        "origin": "Russia"
+    },
+    {
+        "name": "Bosnian Coarse-haired Hound",
+        "origin": "Bosnia and Herzegovina"
+    },
+    {
+        "name": "Boston Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "Bouvier des Ardennes",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Bouvier des Flandres",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Boxer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Boykin Spaniel",
+        "origin": "United States"
+    },
+    {
+        "name": "Bracco Italiano",
+        "origin": "Italy"
+    },
+    {
+        "name": "Braque d'Auvergne",
+        "origin": "France"
+    },
+    {
+        "name": "Braque du Bourbonnais",
+        "origin": "France"
+    },
+    {
+        "name": "Braque du Puy",
+        "origin": "France"
+    },
+    {
+        "name": "Braque Francais",
+        "origin": "France"
+    },
+    {
+        "name": "Braque Saint-Germain",
+        "origin": "France"
+    },
+    {
+        "name": "Brazilian Dogo",
+        "origin": "Brazil"
+    },
+    {
+        "name": "Brazilian Terrier",
+        "origin": "Brazil"
+    },
+    {
+        "name": "Briard",
+        "origin": "France"
+    },
+    {
+        "name": "Briquet Griffon Vendéen",
+        "origin": "France"
+    },
+    {
+        "name": "Brittany",
+        "origin": "France"
+    },
+    {
+        "name": "Broholmer",
+        "origin": "Denmark"
+    },
+    {
+        "name": "Bruno Jura Hound",
+        "origin": "Switzerland, France"
+    },
+    {
+        "name": "Bucovina Shepherd Dog",
+        "origin": "Romania"
+    },
+    {
+        "name": "Bull and Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Bull Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Bull Terrier (Miniature)",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Bulldog",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Bullenbeisser",
+        "origin": "Germany"
+    },
+    {
+        "name": "Bullmastiff",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Bully Kutta",
+        "origin": "Pakistan, India"
+    },
+    {
+        "name": "Burgos Pointer",
+        "origin": "Spain"
+    },
+    {
+        "name": "Cairn Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Canaan Dog",
+        "origin": "Middle East Lebanon - Israel"
+    },
+    {
+        "name": "Canadian Eskimo Dog",
+        "origin": "Canada"
+    },
+    {
+        "name": "Cane Corso",
+        "origin": "Italy"
+    },
+    {
+        "name": "Cantabrian Water Dog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Cão da Serra de Aires",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Cão de Castro Laboreiro",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Cão de Gado Transmontano",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Cão Fila de São Miguel",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Carolina Dog",
+        "origin": "United States"
+    },
+    {
+        "name": "Carpathian Shepherd Dog",
+        "origin": "Romania"
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "origin": "United States"
+    },
+    {
+        "name": "Catalan Sheepdog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Caucasian Shepherd Dog",
+        "origin": "Georgia, Armenia, Azerbaijan"
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Central Asian Shepherd Dog",
+        "origin": "Russia"
+    },
+    {
+        "name": "Cesky Fousek",
+        "origin": "Czech Republic"
+    },
+    {
+        "name": "Cesky Terrier",
+        "origin": "Czech Republic"
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "origin": "United States"
+    },
+    {
+        "name": "Chien Français Blanc et Noir",
+        "origin": "France"
+    },
+    {
+        "name": "Chien Français Blanc et Orange",
+        "origin": "France"
+    },
+    {
+        "name": "Chien Français Tricolore",
+        "origin": "France"
+    },
+    {
+        "name": "Chien-gris",
+        "origin": "France"
+    },
+    {
+        "name": "Chihuahua",
+        "origin": "Mexico"
+    },
+    {
+        "name": "Chilean Fox Terrier",
+        "origin": "Chile"
+    },
+    {
+        "name": "Chinese Chongqing Dog",
+        "origin": "China"
+    },
+    {
+        "name": "Chinese Crested Dog",
+        "origin": "China"
+    },
+    {
+        "name": "Chinese Imperial Dog",
+        "origin": "China"
+    },
+    {
+        "name": "Chinook",
+        "origin": "United States"
+    },
+    {
+        "name": "Chippiparai",
+        "origin": "India"
+    },
+    {
+        "name": "Chow Chow",
+        "origin": "China"
+    },
+    {
+        "name": "Cierny Sery",
+        "origin": "Slovakia"
+    },
+    {
+        "name": "Cirneco dell'Etna",
+        "origin": "Italy"
+    },
+    {
+        "name": "Clumber Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Collie, Rough",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Collie, Smooth",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Combai",
+        "origin": "India"
+    },
+    {
+        "name": "Cordoba Fighting Dog",
+        "origin": "Argentina"
+    },
+    {
+        "name": "Coton de Tulear",
+        "origin": "Madagascar"
+    },
+    {
+        "name": "Cretan Hound",
+        "origin": "Greece"
+    },
+    {
+        "name": "Croatian Sheepdog",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Cumberland Sheepdog",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Curly-Coated Retriever",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Cursinu",
+        "origin": "Corsica (France)"
+    },
+    {
+        "name": "Czechoslovakian Wolfdog",
+        "origin": "Czechoslovakia"
+    },
+    {
+        "name": "Dachshund",
+        "origin": "Germany"
+    },
+    {
+        "name": "Dalmatian",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Danish-Swedish Farmdog",
+        "origin": "Denmark, Sweden"
+    },
+    {
+        "name": "Deutsche Bracke",
+        "origin": "Germany"
+    },
+    {
+        "name": "Doberman Pinscher",
+        "origin": "Germany"
+    },
+    {
+        "name": "Dogo Argentino",
+        "origin": "Argentina"
+    },
+    {
+        "name": "Dogo Cubano",
+        "origin": "Cuba"
+    },
+    {
+        "name": "Dogue de Bordeaux",
+        "origin": "France"
+    },
+    {
+        "name": "Drentse Patrijshond",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Drever",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Dunker",
+        "origin": "Norway"
+    },
+    {
+        "name": "Dutch Shepherd",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Dutch Smoushond",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "East Siberian Laika",
+        "origin": "Russia"
+    },
+    {
+        "name": "East European Shepherd",
+        "origin": "Russia"
+    },
+    {
+        "name": "Elo",
+        "origin": "Germany"
+    },
+    {
+        "name": "English Cocker Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Foxhound",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Mastiff",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Setter",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Shepherd",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Springer Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Toy Terrier (Black & Tan)",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "English Water Spaniel",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "English White Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Entlebucher Mountain Dog",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Estonian Hound",
+        "origin": "Estonia"
+    },
+    {
+        "name": "Estrela Mountain Dog",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Eurasier",
+        "origin": "Germany"
+    },
+    {
+        "name": "Eurohound",
+        "origin": "Scandinavia"
+    },
+    {
+        "name": "Field Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Fila Brasileiro",
+        "origin": "Brazil"
+    },
+    {
+        "name": "Finnish Hound",
+        "origin": "Finland"
+    },
+    {
+        "name": "Finnish Lapphund",
+        "origin": "Finland"
+    },
+    {
+        "name": "Finnish Spitz",
+        "origin": "Finland"
+    },
+    {
+        "name": "Flat-Coated Retriever",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Fox Terrier, Smooth",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Fox Terrier, Wire",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "French Brittany",
+        "origin": "France"
+    },
+    {
+        "name": "French Bulldog",
+        "origin": "United Kingdom (England), France"
+    },
+    {
+        "name": "French Spaniel",
+        "origin": "France"
+    },
+    {
+        "name": "Gaddi Dog",
+        "origin": "India"
+    },
+    {
+        "name": "Galgo Español",
+        "origin": "Spain"
+    },
+    {
+        "name": "Galician Cattle Dog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Garafian Shepherd",
+        "origin": "Spain"
+    },
+    {
+        "name": "Gascon Saintongeois",
+        "origin": "France"
+    },
+    {
+        "name": "Georgian Shepherd Dog",
+        "origin": "Georgia"
+    },
+    {
+        "name": "German Longhaired Pointer",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Pinscher",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Roughhaired Pointer",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Shepherd Dog",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Shorthaired Pointer",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Spaniel",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Spitz",
+        "origin": "Germany"
+    },
+    {
+        "name": "German Wirehaired Pointer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Giant Schnauzer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Glen of Imaal Terrier",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Golden Retriever",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Gordon Setter",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Gran Mastín de Borínquen",
+        "origin": "Puerto Rico"
+    },
+    {
+        "name": "Grand Anglo-Français Blanc et Noir",
+        "origin": "France"
+    },
+    {
+        "name": "Grand Anglo-Français Blanc et Orange",
+        "origin": "France"
+    },
+    {
+        "name": "Grand Anglo-Français Tricolore",
+        "origin": "France"
+    },
+    {
+        "name": "Grand Griffon Vendéen",
+        "origin": "France"
+    },
+    {
+        "name": "Great Dane",
+        "origin": "Germany"
+    },
+    {
+        "name": "Great Pyrenees",
+        "origin": "France, Spain"
+    },
+    {
+        "name": "Greater Swiss Mountain Dog",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Hellenic Hound",
+        "origin": "Greece"
+    },
+    {
+        "name": "Greenland Dog",
+        "origin": "Greenland"
+    },
+    {
+        "name": "Greyhound",
+        "origin": "United Kingdom, Middle East"
+    },
+    {
+        "name": "Griffon Bleu de Gascogne",
+        "origin": "France"
+    },
+    {
+        "name": "Griffon Bruxellois",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Griffon Fauve de Bretagne",
+        "origin": "France"
+    },
+    {
+        "name": "Griffon Nivernais",
+        "origin": "France"
+    },
+    {
+        "name": "Guatemalan Dogo",
+        "origin": "Guatemala"
+    },
+    {
+        "name": "Hamiltonstövare",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Hanover Hound",
+        "origin": "Germany"
+    },
+    {
+        "name": "Hare Indian Dog",
+        "origin": "Canada, United States"
+    },
+    {
+        "name": "Harrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Havanese",
+        "origin": "Cuba"
+    },
+    {
+        "name": "Hawaiian Poi Dog",
+        "origin": "United States"
+    },
+    {
+        "name": "Himalayan Sheepdog",
+        "origin": "Nepal"
+    },
+    {
+        "name": "Hokkaido",
+        "origin": "Japan"
+    },
+    {
+        "name": "Hortaya Borzaya",
+        "origin": "Ukraine, Southern Russia, Belarus"
+    },
+    {
+        "name": "Hovawart",
+        "origin": "Germany"
+    },
+    {
+        "name": "Huntaway",
+        "origin": "New Zealand"
+    },
+    {
+        "name": "Hygenhund",
+        "origin": "Norway"
+    },
+    {
+        "name": "Ibizan Hound",
+        "origin": "Spain"
+    },
+    {
+        "name": "Icelandic Sheepdog",
+        "origin": "Iceland"
+    },
+    {
+        "name": "Indian pariah dog",
+        "origin": "India"
+    },
+    {
+        "name": "Indian Spitz",
+        "origin": "India"
+    },
+    {
+        "name": "Irish Red and White Setter",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Irish Setter",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Irish Terrier",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Irish Water Spaniel",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Irish Wolfhound",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Istrian Coarse-haired Hound",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Istrian Shorthaired Hound",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Italian Greyhound",
+        "origin": "Italy"
+    },
+    {
+        "name": "Jack Russell Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Jagdterrier",
+        "origin": "Germany"
+    },
+    {
+        "name": "Jämthund",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Japanese Chin",
+        "origin": "Japan"
+    },
+    {
+        "name": "Japanese Spitz",
+        "origin": "Japan"
+    },
+    {
+        "name": "Japanese Terrier",
+        "origin": "Japan"
+    },
+    {
+        "name": "Kaikadi",
+        "origin": "India"
+    },
+    {
+        "name": "Kai Ken",
+        "origin": "Japan"
+    },
+    {
+        "name": "Kangal Dog",
+        "origin": "Turkey"
+    },
+    {
+        "name": "Kanni",
+        "origin": "India"
+    },
+    {
+        "name": "Karakachan Dog",
+        "origin": "Bulgaria"
+    },
+    {
+        "name": "Karelian Bear Dog",
+        "origin": "Finland"
+    },
+    {
+        "name": "Karst Shepherd",
+        "origin": "Slovenia"
+    },
+    {
+        "name": "Keeshond",
+        "origin": "Netherlands, Germany"
+    },
+    {
+        "name": "Kerry Beagle",
+        "origin": "Ireland"
+    },
+    {
+        "name": "Kerry Blue Terrier",
+        "origin": "Ireland"
+    },
+    {
+        "name": "King Charles Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "King Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Kintamani",
+        "origin": "Indonesia"
+    },
+    {
+        "name": "Kishu Ken",
+        "origin": "Japan"
+    },
+    {
+        "name": "Komondor",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Kooikerhondje",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Koolie",
+        "origin": "Australia"
+    },
+    {
+        "name": "Korean Jindo",
+        "origin": "Korea (South)"
+    },
+    {
+        "name": "Kromfohrländer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Kumaon Mastiff",
+        "origin": "India"
+    },
+    {
+        "name": "Kunming Wolfdog",
+        "origin": "China"
+    },
+    {
+        "name": "Kurī",
+        "origin": "New Zealand"
+    },
+    {
+        "name": "Kuvasz",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Kyi-Leo",
+        "origin": "United States"
+    },
+    {
+        "name": "Labrador Husky",
+        "origin": "Canada"
+    },
+    {
+        "name": "Labrador Retriever",
+        "origin": "Canada, United Kingdom (England)"
+    },
+    {
+        "name": "Lagotto Romagnolo",
+        "origin": "Italy"
+    },
+    {
+        "name": "Lakeland Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Lancashire Heeler",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Landseer",
+        "origin": "Canada"
+    },
+    {
+        "name": "Lapponian Herder",
+        "origin": "Finland"
+    },
+    {
+        "name": "Leonberger",
+        "origin": "Germany"
+    },
+    {
+        "name": "Lhasa Apso",
+        "origin": "Tibet"
+    },
+    {
+        "name": "Lithuanian Hound",
+        "origin": "Lithuania"
+    },
+    {
+        "name": "Löwchen",
+        "origin": "Germany, France, Netherlands, Spain"
+    },
+    {
+        "name": "Mackenzie River Husky",
+        "origin": "Canada and Alaska"
+    },
+    {
+        "name": "Magyar agár",
+        "origin": "Hungary, Transylvania"
+    },
+    {
+        "name": "Mahratta Greyhound",
+        "origin": "India"
+    },
+    {
+        "name": "Majorca Ratter",
+        "origin": "Spain"
+    },
+    {
+        "name": "Majorca Shepherd Dog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Maltese",
+        "origin": "Italy"
+    },
+    {
+        "name": "Manchester Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Maremma Sheepdog",
+        "origin": "Italy"
+    },
+    {
+        "name": "McNab",
+        "origin": "United States"
+    },
+    {
+        "name": "Mexican Hairless Dog",
+        "origin": "Mexico"
+    },
+    {
+        "name": "Miniature Australian Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Miniature American Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Miniature Fox Terrier",
+        "origin": "Australia"
+    },
+    {
+        "name": "Miniature Pinscher",
+        "origin": "Germany"
+    },
+    {
+        "name": "Miniature Schnauzer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Miniature Shar Pei",
+        "origin": "China"
+    },
+    {
+        "name": "Romanian Mioritic Shepherd Dog",
+        "origin": "Romania"
+    },
+    {
+        "name": "Molossus",
+        "origin": "Greece"
+    },
+    {
+        "name": "Molossus of Epirus",
+        "origin": "Greece"
+    },
+    {
+        "name": "Montenegrin Mountain Hound",
+        "origin": "Montenegro"
+    },
+    {
+        "name": "Moscow Watchdog",
+        "origin": "Russia"
+    },
+    {
+        "name": "Moscow Water Dog",
+        "origin": "Russia"
+    },
+    {
+        "name": "Mountain Cur",
+        "origin": "United States"
+    },
+    {
+        "name": "Mucuchies",
+        "origin": "Venezuela"
+    },
+    {
+        "name": "Mudhol Hound",
+        "origin": "India"
+    },
+    {
+        "name": "Mudi",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Münsterländer, Large",
+        "origin": "Germany"
+    },
+    {
+        "name": "Münsterländer, Small",
+        "origin": "Germany"
+    },
+    {
+        "name": "Neapolitan Mastiff",
+        "origin": "Italy"
+    },
+    {
+        "name": "Newfoundland",
+        "origin": "Canada"
+    },
+    {
+        "name": "New Zealand Heading Dog",
+        "origin": "New Zealand"
+    },
+    {
+        "name": "Norfolk Spaniel",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Norfolk Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Norrbottenspets",
+        "origin": "Sweden"
+    },
+    {
+        "name": "North Country Beagle",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Northern Inuit Dog",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Norwegian Buhund",
+        "origin": "Norway"
+    },
+    {
+        "name": "Norwegian Elkhound",
+        "origin": "Norway"
+    },
+    {
+        "name": "Norwegian Lundehund",
+        "origin": "Norway"
+    },
+    {
+        "name": "Norwich Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Nova Scotia Duck Tolling Retriever",
+        "origin": "Canada"
+    },
+    {
+        "name": "Old Croatian Sighthound",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Old Danish Pointer",
+        "origin": "Denmark"
+    },
+    {
+        "name": "Old English Sheepdog",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Old English Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Old German Shepherd Dog",
+        "origin": "Germany"
+    },
+    {
+        "name": "Old Time Farm Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Olde English Bulldogge",
+        "origin": "United States"
+    },
+    {
+        "name": "Otterhound",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Pachon Navarro",
+        "origin": "Spain"
+    },
+    {
+        "name": "Pandikona Hunting Dog",
+        "origin": "India"
+    },
+    {
+        "name": "Paisley Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Papillon",
+        "origin": "Spain, Belgium, France"
+    },
+    {
+        "name": "Parson Russell Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Patterdale Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Pekingese",
+        "origin": "China"
+    },
+    {
+        "name": "Perro de Presa Canario",
+        "origin": "Spain"
+    },
+    {
+        "name": "Perro de Presa Mallorquin",
+        "origin": "Spain"
+    },
+    {
+        "name": "Peruvian Hairless Dog",
+        "origin": "Peru"
+    },
+    {
+        "name": "Phalène",
+        "origin": "Belgium, Spain"
+    },
+    {
+        "name": "Pharaoh Hound",
+        "origin": "Malta"
+    },
+    {
+        "name": "Phu Quoc Ridgeback",
+        "origin": "Vietnam"
+    },
+    {
+        "name": "Picardy Spaniel",
+        "origin": "France"
+    },
+    {
+        "name": "Plummer Terrier",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Plott Hound",
+        "origin": "United States"
+    },
+    {
+        "name": "Podenco Canario",
+        "origin": "Spain"
+    },
+    {
+        "name": "Pointer",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Poitevin",
+        "origin": "France"
+    },
+    {
+        "name": "Polish Greyhound",
+        "origin": "Poland"
+    },
+    {
+        "name": "Polish Hound",
+        "origin": "Poland"
+    },
+    {
+        "name": "Polish Hunting Dog",
+        "origin": "Poland"
+    },
+    {
+        "name": "Polish Lowland Sheepdog",
+        "origin": "Poland"
+    },
+    {
+        "name": "Polish Tatra Sheepdog",
+        "origin": "Poland"
+    },
+    {
+        "name": "Pomeranian",
+        "origin": "Germany, Poland"
+    },
+    {
+        "name": "Pont-Audemer Spaniel",
+        "origin": "France"
+    },
+    {
+        "name": "Poodle",
+        "origin": "Germany, France"
+    },
+    {
+        "name": "Porcelaine",
+        "origin": "France"
+    },
+    {
+        "name": "Portuguese Podengo",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Portuguese Pointer",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Portuguese Water Dog",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Posavac Hound",
+        "origin": "Croatia"
+    },
+    {
+        "name": "Pražský Krysařík",
+        "origin": "Czech Republic"
+    },
+    {
+        "name": "Pudelpointer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Pug",
+        "origin": "China"
+    },
+    {
+        "name": "Puli",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Pumi",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Pungsan Dog",
+        "origin": "Korea (North)"
+    },
+    {
+        "name": "Pyrenean Mastiff",
+        "origin": "Spain"
+    },
+    {
+        "name": "Pyrenean Shepherd",
+        "origin": "France"
+    },
+    {
+        "name": "Rafeiro do Alentejo",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Rajapalayam",
+        "origin": "India"
+    },
+    {
+        "name": "Rampur Greyhound",
+        "origin": "India"
+    },
+    {
+        "name": "Rastreador Brasileiro",
+        "origin": "Brazil"
+    },
+    {
+        "name": "Ratonero Bodeguero Andaluz",
+        "origin": "Spain"
+    },
+    {
+        "name": "Ratonero Murciano de Huerta",
+        "origin": "Spain"
+    },
+    {
+        "name": "Ratonero Valenciano",
+        "origin": "Spain"
+    },
+    {
+        "name": "Rat Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "Redbone Coonhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Rhodesian Ridgeback",
+        "origin": "Zimbabwe"
+    },
+    {
+        "name": "Rottweiler",
+        "origin": "Germany"
+    },
+    {
+        "name": "Russian Spaniel",
+        "origin": "Russia"
+    },
+    {
+        "name": "Russian Toy",
+        "origin": "Russia"
+    },
+    {
+        "name": "Russian Tracker",
+        "origin": "Russia"
+    },
+    {
+        "name": "Russo-European Laika",
+        "origin": "Russia"
+    },
+    {
+        "name": "Russell Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Saarloos Wolfdog",
+        "origin": "Netherlands, Germany"
+    },
+    {
+        "name": "Sabueso Español",
+        "origin": "Spain"
+    },
+    {
+        "name": "Sabueso fino Colombiano",
+        "origin": "Colombia"
+    },
+    {
+        "name": "Saint-Usuge Spaniel",
+        "origin": "France"
+    },
+    {
+        "name": "Sakhalin Husky",
+        "origin": "Japan"
+    },
+    {
+        "name": "Saluki",
+        "origin": "Fertile Crescent"
+    },
+    {
+        "name": "Samoyed",
+        "origin": "Russia"
+    },
+    {
+        "name": "Sapsali",
+        "origin": "Korea"
+    },
+    {
+        "name": "Šarplaninac",
+        "origin": "Serbia, Macedonia"
+    },
+    {
+        "name": "Schapendoes",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Schillerstövare",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Schipperke",
+        "origin": "Belgium"
+    },
+    {
+        "name": "Standard Schnauzer",
+        "origin": "Germany"
+    },
+    {
+        "name": "Schweizer Laufhund",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Schweizerischer Niederlaufhund",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Scotch Collie",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Scottish Deerhound",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Scottish Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Sealyham Terrier",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "Segugio Italiano",
+        "origin": "Italy"
+    },
+    {
+        "name": "Seppala Siberian Sleddog",
+        "origin": "Canada"
+    },
+    {
+        "name": "Serbian Hound",
+        "origin": "Serbia"
+    },
+    {
+        "name": "Serbian Tricolour Hound",
+        "origin": "Serbia"
+    },
+    {
+        "name": "Seskar Seal Dog",
+        "origin": "Finland"
+    },
+    {
+        "name": "Shar Pei",
+        "origin": "China"
+    },
+    {
+        "name": "Shetland Sheepdog",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Shiba Inu",
+        "origin": "Japan"
+    },
+    {
+        "name": "Shih Tzu",
+        "origin": "China"
+    },
+    {
+        "name": "Shikoku",
+        "origin": "Japan"
+    },
+    {
+        "name": "Shiloh Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Siberian Husky",
+        "origin": "Russia"
+    },
+    {
+        "name": "Silken Windhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Sinhala Hound",
+        "origin": "Sri Lanka"
+    },
+    {
+        "name": "Skye Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "Sloughi",
+        "origin": "Morocco"
+    },
+    {
+        "name": "Slovak Cuvac",
+        "origin": "Slovakia"
+    },
+    {
+        "name": "Slovakian Rough-haired Pointer",
+        "origin": "Slovakia"
+    },
+    {
+        "name": "Slovenský Kopov",
+        "origin": "Slovakia"
+    },
+    {
+        "name": "Smålandsstövare",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Small Greek Domestic Dog",
+        "origin": "Greece"
+    },
+    {
+        "name": "Soft-Coated Wheaten Terrier",
+        "origin": "Ireland"
+    },
+    {
+        "name": "South Russian Ovcharka",
+        "origin": "Russia"
+    },
+    {
+        "name": "Southern Hound",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Spanish Mastiff",
+        "origin": "Spain"
+    },
+    {
+        "name": "Spanish Water Dog",
+        "origin": "Spain"
+    },
+    {
+        "name": "Spinone Italiano",
+        "origin": "Italy"
+    },
+    {
+        "name": "Sporting Lucas Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "St. Bernard",
+        "origin": "Italy, Switzerland"
+    },
+    {
+        "name": "St. John's water dog",
+        "origin": "Newfoundland, Canada"
+    },
+    {
+        "name": "Stabyhoun",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Staffordshire Bull Terrier",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Stephens Cur",
+        "origin": "United States"
+    },
+    {
+        "name": "Styrian Coarse-haired Hound",
+        "origin": "Austria"
+    },
+    {
+        "name": "Sussex Spaniel",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Swedish Lapphund",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Swedish Vallhund",
+        "origin": "Sweden"
+    },
+    {
+        "name": "Tahltan Bear Dog",
+        "origin": "Canada"
+    },
+    {
+        "name": "Taigan",
+        "origin": "Kyrgyzstan"
+    },
+    {
+        "name": "Taiwan Dog",
+        "origin": "Taiwan"
+    },
+    {
+        "name": "Talbot",
+        "origin": "United Kingdom, Belgium, France"
+    },
+    {
+        "name": "Tamaskan Dog",
+        "origin": "Finland"
+    },
+    {
+        "name": "Teddy Roosevelt Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "Telomian",
+        "origin": "Malaysia"
+    },
+    {
+        "name": "Tenterfield Terrier",
+        "origin": "Australia"
+    },
+    {
+        "name": "Terceira Mastiff",
+        "origin": "Portugal"
+    },
+    {
+        "name": "Thai Bangkaew Dog",
+        "origin": "Thailand"
+    },
+    {
+        "name": "Thai Ridgeback",
+        "origin": "Thailand"
+    },
+    {
+        "name": "Tibetan Mastiff",
+        "origin": "Tibet"
+    },
+    {
+        "name": "Tibetan Spaniel",
+        "origin": "Tibet"
+    },
+    {
+        "name": "Tibetan Terrier",
+        "origin": "Tibet"
+    },
+    {
+        "name": "Tornjak",
+        "origin": "Bosnia and Herzegovina, Croatia"
+    },
+    {
+        "name": "Tosa",
+        "origin": "Japan"
+    },
+    {
+        "name": "Toy Bulldog",
+        "origin": "United Kingdom (England)"
+    },
+    {
+        "name": "Toy Fox Terrier",
+        "origin": "United States"
+    },
+    {
+        "name": "Toy Manchester Terrier",
+        "origin": "United Kingdom (England), United States"
+    },
+    {
+        "name": "Toy Trawler Spaniel",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Transylvanian Hound",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Treeing Cur",
+        "origin": "United States"
+    },
+    {
+        "name": "Treeing Tennessee Brindle",
+        "origin": "United States"
+    },
+    {
+        "name": "Treeing Walker Coonhound",
+        "origin": "United States"
+    },
+    {
+        "name": "Trigg Hound",
+        "origin": "Kentucky, United States"
+    },
+    {
+        "name": "Tweed Water Spaniel",
+        "origin": "United Kingdom"
+    },
+    {
+        "name": "Tyrolean Hound",
+        "origin": "Austria"
+    },
+    {
+        "name": "Cimarrón Uruguayo",
+        "origin": "Uruguay"
+    },
+    {
+        "name": "Valencian Ratter",
+        "origin": "Spain"
+    },
+    {
+        "name": "Vanjari Hound",
+        "origin": "India"
+    },
+    {
+        "name": "Villano de Las Encartaciones",
+        "origin": "Spain"
+    },
+    {
+        "name": "Vizsla",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Volpino Italiano",
+        "origin": "Italy"
+    },
+    {
+        "name": "Weimaraner",
+        "origin": "Germany"
+    },
+    {
+        "name": "Welsh Corgi, Cardigan",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "Welsh Corgi, Pembroke",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "Welsh Sheepdog",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "Welsh Springer Spaniel",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "Welsh Terrier",
+        "origin": "United Kingdom (Wales)"
+    },
+    {
+        "name": "West Highland White Terrier",
+        "origin": "United Kingdom (Scotland)"
+    },
+    {
+        "name": "West Siberian Laika",
+        "origin": "Russia"
+    },
+    {
+        "name": "Westphalian Dachsbracke",
+        "origin": "Germany"
+    },
+    {
+        "name": "Wetterhoun",
+        "origin": "Netherlands"
+    },
+    {
+        "name": "Whippet",
+        "origin": "England"
+    },
+    {
+        "name": "White Shepherd",
+        "origin": "United States"
+    },
+    {
+        "name": "Wirehaired Pointing Griffon",
+        "origin": "Netherlands, France"
+    },
+    {
+        "name": "Wirehaired Vizsla",
+        "origin": "Hungary"
+    },
+    {
+        "name": "Xiasi Dog",
+        "origin": "China"
+    },
+    {
+        "name": "Yorkshire Terrier",
+        "origin": "United Kingdom (England)"
+    }
+]
