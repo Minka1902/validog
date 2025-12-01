@@ -1,0 +1,55 @@
+# Development files
+*.md
+!README.md
+OPTIMIZATION_SUMMARY.md
+CHANGELOG.md
+TODO.md
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+__tests__/
+coverage/
+.nyc_output/
+
+# Configuration files
+.eslintrc*
+.prettierrc*
+.editorconfig
+.babelrc*
+tsconfig.json
+jest.config.js
+.travis.yml
+.github/
+.gitlab-ci.yml
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD files
+.circleci/
+.jenkins/
+azure-pipelines.yml
+
+# Documentation build
+docs/
+examples/
+demo/
+
+# Misc
+*.log
+npm-debug.log*
+.env*
+.npmrc
