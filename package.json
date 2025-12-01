@@ -1,25 +1,89 @@
 {
   "name": "validog",
-  "version": "1.0.1",
-  "description": "Dog breed validation library",
+  "version": "1.1.0",
+  "description": "Comprehensive dog breed validation, search, and recommendation library with support for 100+ breeds, fuzzy matching, and advanced filtering by size, temperament, origin, and compatibility",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "dog",
+    "dogs",
     "breed",
+    "breeds",
     "validation",
-    "dog-breed",
     "validator",
-    "breed-validator"
+    "dog-breed",
+    "dog-breeds",
+    "breed-validator",
+    "pet",
+    "pets",
+    "animal",
+    "canine",
+    "puppy",
+    "dog-info",
+    "dog-data",
+    "breed-info",
+    "breed-data",
+    "dog-search",
+    "fuzzy-search",
+    "levenshtein",
+    "breed-search",
+    "dog-finder",
+    "breed-finder",
+    "dog-compatibility",
+    "pet-compatibility",
+    "dog-temperament",
+    "dog-size",
+    "dog-weight",
+    "dog-origin",
+    "dog-country",
+    "breed-comparison",
+    "dog-comparison",
+    "breed-recommendation",
+    "dog-recommendation",
+    "pet-recommendation",
+    "dog-filter",
+    "breed-filter",
+    "dog-database",
+    "breed-database",
+    "dog-energy-level",
+    "dog-trainability",
+    "dog-shedding",
+    "dog-grooming",
+    "good-with-children",
+    "good-with-cats",
+    "good-with-dogs",
+    "family-dog",
+    "apartment-dog",
+    "large-breed",
+    "small-breed",
+    "medium-breed"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Minka1902/validog.git"
   },
-  "author": {
-    "name": "Michael Scharff"
+  "bugs": {
+    "url": "https://github.com/Minka1902/validog/issues"
   },
-  "license": "ISC"
+  "homepage": "https://github.com/Minka1902/validog#readme",
+  "author": {
+    "name": "Michael Scharff",
+    "url": "https://github.com/Minka1902"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "dogs.json",
+    "errors.js",
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ]
 }
